@@ -1,0 +1,26 @@
+{
+  "name": "topbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrandonMasis/TopBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrandonMasis/TopBot/issues"
+  },
+  "homepage": "https://github.com/BrandonMasis/TopBot#readme",
+  "dependencies": {
+    "discord.js": "^14.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.23.1"
+  }
+}
